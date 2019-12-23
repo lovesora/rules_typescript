@@ -13,7 +13,7 @@
 # limitations under the License.
 
 workspace(
-    name = "build_bazel_rules_typescript",
+    name = "lovesora_rules_typescript",
     managed_directories = {"@npm": ["node_modules"]},
 )
 
